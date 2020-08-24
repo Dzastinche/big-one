@@ -3,7 +3,7 @@ const sections = [
     title: 'hats',
     imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
     id: 1,
-    linkUrl: 'shop/hats'
+    linkUrl: 'hats'
   },
   {
     title: 'jackets',
@@ -15,7 +15,7 @@ const sections = [
     title: 'sneakers',
     imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
     id: 3,
-    linkUrl: 'shop/sneakers'
+    linkUrl: 'shop/sneakers',
   },
   {
     title: 'womens',
